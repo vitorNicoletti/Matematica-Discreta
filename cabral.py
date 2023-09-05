@@ -1,3 +1,4 @@
+#Vitor Nicoletti, Eduardo Silva Contin, Fabricio Goes Pinterich
 def main():
     file = open("input.txt", "r")
     line = file.readlines()
